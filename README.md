@@ -1,2 +1,2 @@
-# Demon_System
-Додаток Чат-Бот. Python, Kivy
+# Чат бот з OpenAI на Python#
+*Це короткий код для простого чату на Python з використанням бібліотеки g4f і Tkinter*
